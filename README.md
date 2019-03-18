@@ -1,9 +1,14 @@
 # Programming-for-Data-Science-with-R
 
 
+
 <p align="center">
-  <img src="Programming_for_Data_Science_with_R.jpg" width="350" title="hover text" alt="accessibility text">
+  <a href="https://www.packtpub.com/application-development/programming-data-science-r-video" >
+    <img src="Programming_for_Data_Science_with_R.jpg" alt="Data Science with Rajat" width="350" align="center" ">
+  </a>
 </p>
+                                                                                                               
+
 
 ## Course Overview
 
