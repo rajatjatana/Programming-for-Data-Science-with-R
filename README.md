@@ -1,16 +1,17 @@
 # Programming-for-Data-Science-with-R
 
 
-
 <p align="center">
   <a href="https://www.packtpub.com/application-development/programming-data-science-r-video" >
     <img src="Programming_for_Data_Science_with_R.jpg" alt="Data Science with Rajat" width="350" align="center" ">
   </a>
 </p>
                                                                                                                
-                                                                                                               
-[Course Link](https://www.packtpub.com/application-development/programming-data-science-r-video)
 
+<p align="center">
+  <a href="https://www.packtpub.com/application-development/programming-data-science-r-video"> Course Link </a>
+
+</p>
 
 
 ## Course Overview
@@ -31,7 +32,8 @@ This will help candidates having basic knowledge of R Programming elevate to the
 
 
 ### Backgroud
-Data is everywhere and growing faster than ever before. It has now become challenge to deal with such huge amount of data as it is highly time-consuming. This has created a huge demand for people who can mine and interpret data. There is enormous value in data processing and analysis—and that is where a data scientist steps into the spotlight. 
+Data is everywhere and growing faster than ever before. It has now become challenge to deal with such huge amount of data as it is highly time-consuming. This has created a huge demand for people who can mine and interpret data. There is enormous value in data processing and analysis—and that is where a data scientist steps into the spotlight.   
+
 This course will help candidates having basic knowledge of R Programming elevate to the next level. R can be used to tease actionable insights out of gigabytes of data, and this course will show you exactly how to do it. Here, we will be building on the advanced and efficient ways of doing different parts of analytics- right from data cleaning, visualizing to building high performing models You’ll start your journey by loading data, visualizing it and interpreting it while providing intuitive solutions. Further, you will learn to apply machine learning algorithms to real-world problems in R.
 
 By the end of the course, get geared up to tackle real-life data challenges by analyzing complex datasets. This in turn will bring out insights that companies can convert into actions.
