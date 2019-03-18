@@ -8,6 +8,9 @@
   </a>
 </p>
                                                                                                                
+                                                                                                               
+[Course Link](https://www.packtpub.com/application-development/programming-data-science-r-video)
+
 
 
 ## Course Overview
